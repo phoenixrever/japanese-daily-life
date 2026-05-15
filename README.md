@@ -1,6 +1,6 @@
 # 📖 生活情境日语图解大百科 · 学习平台
 
-《生活情境日语图解大百科》配套音频学习网站，支持一键部署到 **GitHub Pages**。
+《生活情境日语图解大百科》配套音频学习网站 [japanese-daily-life](https://shaozhengmao.github.io/japanese-daily-life/) 。
 
 **功能：** 210 课音频在线播放 · 三栏对照（日语 / 罗马音 / 中文）· 词汇注释 · 文化背景 · 实用对话 · 分类筛选 · 移动端友好
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 部署到 GitHub Pages
+## 如需部署到你的 GitHub Pages
 
 1. 点击右上角 **Fork** 将本仓库 fork 到你自己的账号
 2. 进入 fork 后的仓库，点击 **Settings** → **Pages**
