@@ -1,6 +1,6 @@
 # 📖 生活情境日语图解大百科 · 学习平台
 
-《生活情境日语图解大百科》配套音频学习网站 [japanese-daily-life](https://github.com/phoenixrever/japanese-daily-life) 。
+《生活情境日语图解大百科》配套音频学习网站 [japanese-daily-life](https://phoenixrever.github.io/japanese-daily-life/) 。
 
 **功能：** 210 课音频在线播放 · 三栏对照（日语 / 罗马音 / 中文）· 词汇注释 · 文化背景 · 实用对话 · 分类筛选 · 移动端友好
 
